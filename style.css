@@ -1,0 +1,29 @@
+body{background-color: #f0f4f4; font-family: Arial, Helvetica, sans-serif;}
+
+.logoC{width: 360px; height: 200px; margin-top: 150px;}
+img{width: 100%;}
+
+.P{ width: 700px; margin-top: -60px;}
+.fbP{font-size: 35px; line-height: 45px; margin-left: 45px;}
+
+.form-c{width: 400px; height: 370px; margin-left: 750px; margin-top: -300px; border-radius: 10px; background-color: white;
+padding: 30px 40px 30px 25px; box-shadow: 0 2px 5px 2px rgba(0, 0, 0, 0.212)}
+
+input.text,.password{font-size: 20px;width: 100%;height: 60px;border-radius: 8px;border: 1px solid rgb(226, 226, 226);padding-left: 10px;}
+input:hover{background-color: #f0f4f4;}
+
+.button{width: 415px; background-color: #1877f2; color: white; font-weight: bold; font-size: 17pt; height: 65px; border-radius: 8px;
+border: 1px solid rgb(99, 148, 255);}
+.button:hover{cursor: pointer; background-color: #166bda;}
+
+.password,.button{margin-top: 20px;}
+
+.fp{text-align: center; color: #1877f2;}
+.fp:hover{cursor: pointer; text-decoration: underline;}
+
+.newa{background-color: #42b72a;  width: 220px; margin-left: auto; margin-right: auto; border-radius: 8px; margin-top: 30px;}
+.butn{text-align: center; font-size: 14pt; color: white; font-weight: bold; padding: 18px;}
+.butn:hover{background-color: #399627; cursor: pointer; border-radius: 8px;}
+
+.footer{margin-top: 60px; background-color: white; padding: 10px;}
+#designby,#roll{text-align: center; font-size: 14pt;}
